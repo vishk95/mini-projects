@@ -1,3 +1,6 @@
 [submodule "color-picker"]
 	path = color-picker
 	url = https://github.com/vishk95/color-picker.git
+[submodule "GoShoppe"]
+	path = GoShoppe
+	url = https://github.com/vishk95/GoShoppe.git
