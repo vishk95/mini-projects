@@ -4,3 +4,6 @@
 [submodule "GoShoppe"]
 	path = GoShoppe
 	url = https://github.com/vishk95/GoShoppe.git
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/vishk95/Calculator.git
