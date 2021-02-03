@@ -7,3 +7,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://github.com/vishk95/Calculator.git
+[submodule "Quoter"]
+	path = Quoter
+	url = https://github.com/vishk95/Quoter.git
