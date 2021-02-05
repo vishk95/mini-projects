@@ -10,3 +10,6 @@
 [submodule "Quoter"]
 	path = Quoter
 	url = https://github.com/vishk95/Quoter.git
+[submodule "Pomodoro"]
+	path = Pomodoro
+	url = https://github.com/vishk95/Pomodoro.git
